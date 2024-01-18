@@ -1,0 +1,90 @@
+.navbar{
+    max-width: 100%;
+    padding: 3rem 1.5rem 0rem 1.5rem;
+    max-height: fit-content;
+}
+
+.logo{
+    max-width: 6rem;
+}
+
+.configure img{
+    max-width: 6rem;
+}
+
+.navbar .fa-solid{
+    margin: 0rem .5rem 0rem .5rem;
+}
+
+.card-body img{
+    max-width: 10rem;
+}
+
+article{
+    padding: 3rem 1.5rem 3rem 1.5rem;
+}
+
+.welcome{
+    background-color: #47A8BD;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    max-height: 7.5rem;
+    overflow: hidden;
+    border-radius: .5rem;
+    margin-bottom: 1rem;
+    width: 21rem;
+}
+
+.welcome img{
+    max-height: 10rem; 
+}
+
+.welcome-blurb{
+    max-width: 12rem;
+    color: white;
+}
+.card{
+    margin-bottom: 2.5rem;
+}
+
+.live-btn{
+    background-color: #D8125A;
+    color: white;
+    border: 0;
+    width:7.5rem;
+    height: fit-content;
+    padding:.25rem;
+    border-radius: .5rem;
+    font-weight: bold;
+    margin-left: .25rem
+}
+
+.standard-btn{
+    background-color: #FC8500;
+    color: white;
+    border: 0;
+    width:7.5rem;
+    height: fit-content;
+    padding:.25rem;
+    border-radius: .5rem;
+    font-weight: bold;
+    margin-left: .25rem;
+}
+
+footer{
+    padding: 1.5rem 1.5rem 3rem 1.5rem;
+    display:inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+}
+
+.navig{
+    margin: 0rem 1.3rem 0rem 1.3rem;
+}
+.selected i{
+    color: #FC8500;
+}
